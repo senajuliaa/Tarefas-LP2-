@@ -1,0 +1,7 @@
+C:\Users\fabio\Desktop\lp2\Tarefa_05\Tarefa_05\bin\Debug\Tarefa_05.exe.config
+C:\Users\fabio\Desktop\lp2\Tarefa_05\Tarefa_05\bin\Debug\Tarefa_05.exe
+C:\Users\fabio\Desktop\lp2\Tarefa_05\Tarefa_05\bin\Debug\Tarefa_05.pdb
+C:\Users\fabio\Desktop\lp2\Tarefa_05\Tarefa_05\obj\Debug\Tarefa_05.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\lp2\Tarefa_05\Tarefa_05\obj\Debug\Tarefa_05.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\lp2\Tarefa_05\Tarefa_05\obj\Debug\Tarefa_05.exe
+C:\Users\fabio\Desktop\lp2\Tarefa_05\Tarefa_05\obj\Debug\Tarefa_05.pdb
