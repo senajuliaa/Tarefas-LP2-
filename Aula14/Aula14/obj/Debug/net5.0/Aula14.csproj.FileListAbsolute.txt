@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\bin\Debug\net5.0\Aula14.exe
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\bin\Debug\net5.0\Aula14.deps.json
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\bin\Debug\net5.0\Aula14.runtimeconfig.json
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\bin\Debug\net5.0\Aula14.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\bin\Debug\net5.0\Aula14.dll
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\bin\Debug\net5.0\ref\Aula14.dll
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\bin\Debug\net5.0\Aula14.pdb
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\obj\Debug\net5.0\Aula14.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\obj\Debug\net5.0\Aula14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\obj\Debug\net5.0\Aula14.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\obj\Debug\net5.0\Aula14.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\obj\Debug\net5.0\Aula14.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\obj\Debug\net5.0\Aula14.dll
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\obj\Debug\net5.0\ref\Aula14.dll
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\obj\Debug\net5.0\Aula14.pdb
+C:\Users\Administrador\Desktop\lp2\Aula14\Aula14\obj\Debug\net5.0\Aula14.genruntimeconfig.cache
